@@ -35,7 +35,7 @@ $(function() {
           $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
             .append("</button>");
           $('#success > .alert-success')
-            .append("<strong>Your message has been sent. </strong>");
+            .append("<strong>Su mensaje a ha sido envidao.Espere su respuesta pronto </strong>");
           $('#success > .alert-success')
             .append('</div>');
           //clear all fields
